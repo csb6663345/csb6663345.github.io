@@ -1,0 +1,15 @@
+body{
+     border: 1px solid #333;
+     display: inline-block;
+     
+}
+
+td{
+     border: 1px solid #333;
+     padding: 12px;
+     text-align: center;  
+}
+
+tr:hover{
+     background-color: aqua;
+}
